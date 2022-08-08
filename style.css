@@ -4,7 +4,10 @@
 .btn-color{
     background-color: #ff589b;
 }
-.checkboxSide input{
-    margin-left: 500px;
-    margin: auto;
+
+.icon_position_left i{
+transform: translate(20px, -30px);
+}
+.icon_position_right i{
+transform: translate(-20px, -30px);
 }
